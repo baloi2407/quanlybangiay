@@ -24,44 +24,44 @@ ghi chú:
 ============================
 * Tổng quan
 * Bán hàng
-    ++> Đơn hàng
+   - Đơn hàng
         --> Cập nhật đơn hàng
-    ++> Khách hàng
+   - Khách hàng
         --> Cập nhật khách hàng
-    ++> Báo cáo
+    -Báo cáo
 * Sản xuất
-    ++> Sản phẩm
+   - Sản phẩm
         +++> Danh sách
         +++> Thêm
         ---> Sửa
         ---> Xóa
-    ++> Danh mục
+    - Danh mục
         +++> Danh sách
         +++> Thêm
         ---> Sửa
         ---> Xóa
-    ++> Nhà cung cấp
+    - Nhà cung cấp
         +++> Danh sách
         +++> Thêm
         ---> Sửa
         ---> Xóa    
 * Quản trị
-    ++> Danh sách
-    ++> Thêm
+    - Danh sách
+    - Thêm
     --> Sửa
     --> Xóa
-    ++> Phân quyền    
+    - Phân quyền    
         ---> Cấp quyền
 * Hệ thống (Chưa hoàn thiện)
     ++ Lịch sử
     ++ Cấu hình
 * Tin tức
-    ++> Danh mục
+    - Danh mục
         +++> Danh sách
         +++> Thêm
         ---> Sửa
         ---> Xóa
-    ++> Bài viết
+    - Bài viết
         +++> Danh sách
         +++> Thêm
         ---> Sửa
