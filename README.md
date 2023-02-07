@@ -3,6 +3,7 @@
 
 * Điều kiện tiên quyết:
 - PHP: 7.4.30
+* Lưu ý: Khi tải code về chạy vui lòng coi lại đường dẫn BASE trong file config.php ở trong thư mục System -> Config -> config.php
 
 * Frontend
 - Gentelella - Bootstrap Admin Template by Colorlib
@@ -19,7 +20,7 @@ website quản lý cửa hàng bán giày
 Cây menu trang admin
 ghi chú: 
     + : chức năng hiển thị ra cây menu
-    - : chức năng không hiển thị ra cây menu vì cần tham số cụ thể để xử lý
+    + : chức năng không hiển thị ra cây menu vì cần tham số cụ thể để xử lý
 ============================
 +> Tổng quan
 +> Bán hàng
