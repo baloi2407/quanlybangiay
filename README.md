@@ -22,7 +22,7 @@ ghi chú:
     + : chức năng hiển thị ra cây menu
     + : chức năng không hiển thị ra cây menu vì cần tham số cụ thể để xử lý
 ============================
-+> Tổng quan
+* Tổng quan
 +> Bán hàng
     ++> Đơn hàng
         --> Cập nhật đơn hàng
