@@ -23,13 +23,13 @@ ghi chú:
     + : chức năng không hiển thị ra cây menu vì cần tham số cụ thể để xử lý
 ============================
 * Tổng quan
-+> Bán hàng
+* Bán hàng
     ++> Đơn hàng
         --> Cập nhật đơn hàng
     ++> Khách hàng
         --> Cập nhật khách hàng
     ++> Báo cáo
-+> Sản xuất
+* Sản xuất
     ++> Sản phẩm
         +++> Danh sách
         +++> Thêm
@@ -45,17 +45,17 @@ ghi chú:
         +++> Thêm
         ---> Sửa
         ---> Xóa    
-+> Quản trị
+* Quản trị
     ++> Danh sách
     ++> Thêm
     --> Sửa
     --> Xóa
     ++> Phân quyền    
         ---> Cấp quyền
-+> Hệ thống
+* Hệ thống (Chưa hoàn thiện)
     ++ Lịch sử
     ++ Cấu hình
-+> Tin tức
+* Tin tức
     ++> Danh mục
         +++> Danh sách
         +++> Thêm
