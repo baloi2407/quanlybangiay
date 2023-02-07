@@ -14,6 +14,8 @@
 * Mồ hình triển khai
 - MVC
 
+* Sử dụng mysql để tương tác với database
+
 * Các chức năng của hệ thống:
 website quản lý cửa hàng bán giày
 
