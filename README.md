@@ -53,7 +53,10 @@ ghi chú:
     --> Sửa
     --> Xóa
     - Phân quyền    
-        ---> Cấp quyền
+        ---> Cấp quyền: Có cố dịnh 3 quyền Manager, Creator, Vistor
+                    * Manager là quyền cao nhất có tất cả các chức năng - tài khoản nguyenbaloi - mật khẩu baloi2407
+                    * Creator là quyền được phép thực hiện thêm sửa xóa cập nhật bảng product,order,customer,news... nhưng không được tác động đén user vì bảng user là quản lý tài khoản của các thành viên quản trị
+                    * Vistor là quyền chỉ được phép xem danh sách hoặc xem thống kê sản phẩm - Mặc định khi đăng ký thì sẻ là quyền visitor
 * Hệ thống (Chưa hoàn thiện)
     ++ Lịch sử
     ++ Cấu hình
